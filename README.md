@@ -11,12 +11,12 @@ Recuerda descargar el archivo Miniproyecto1.zip para desarrollar tu trabajo.
 Trabajo a realizar:
 Usando Python en Jupyter Notebook o Google Colab, se espera que se realicen los siguientes pasos:
 
-Cargar las librerías a utilizar, se debe comentar y explicar la elección de ellas.
-Cargar y revisar cada fuente de datos, ver su contenido, características y definir si será utilizado para complementar la información. Debe justificar la toma de la decisión. Además, describir los datos, caracterizarlos y explicarlos.
-Realizar dos gráficas que muestren las características de los datos, explicando cada gráfico.
-Unir las fuentes de información a partir de un atributo único.
-Filtrar los atributos que deben ser utilizados
-Limpiar y depurar la base de datos unida, verificando datos faltantes, datos NaN, desconocidos, erróneos, duplicados, datos redundantes, etc. Debe justificar esta toma de decisión.
-Homogeneizar los datos, para dejarlos con la estructura indicada en el archivo output.csv. Respetar la estructura y los espacios señalados.
-Finalmente normalizar, justificando el tipo de normalización escogida. Normalizar los datos numéricos, explicar el tipo de normalización utilizada (recordar que es normalización de datos y no normalización de base de datos, i.e. Standard Scaler, MinMax Scaler, etc.)
-Generar un archivo de salida csv o Excel.
+1) Cargar las librerías a utilizar, se debe comentar y explicar la elección de ellas.
+2) Cargar y revisar cada fuente de datos, ver su contenido, características y definir si será utilizado para complementar la información. Debe justificar la toma de la decisión. Además, describir los datos, caracterizarlos y explicarlos.
+3) Realizar dos gráficas que muestren las características de los datos, explicando cada gráfico.
+4) Unir las fuentes de información a partir de un atributo único.
+5) Filtrar los atributos que deben ser utilizados
+6) Limpiar y depurar la base de datos unida, verificando datos faltantes, datos NaN, desconocidos, erróneos, duplicados, datos redundantes, etc. Debe justificar esta toma de decisión.
+7) Homogeneizar los datos, para dejarlos con la estructura indicada en el archivo output.csv. Respetar la estructura y los espacios señalados.
+8) Finalmente normalizar, justificando el tipo de normalización escogida. Normalizar los datos numéricos, explicar el tipo de normalización utilizada (recordar que es normalización de datos y no normalización de base de datos, i.e. Standard Scaler, MinMax Scaler, etc.)
+9) Generar un archivo de salida csv o Excel.
