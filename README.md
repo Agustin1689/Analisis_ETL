@@ -1,5 +1,9 @@
 # Analisis_ETL
 
+## Tarea 1: Diplomado Big data y cloud computing PUC
+
+## Curso: Introducción a Miniería de datos y machine learning 
+
 El caso que se presentará a continuación consiste en poblar una dimensión de clientes de un banco portugués para una campaña de marketing. Este banco posee 50 clientes identificados con un ID para cada cliente, sexo, nivel educacional, estado civil, edad y otros atributos descritos en el archivo bank-additional-names.txt. Ahora, este banco tiene 3 fuentes de datos (bank-A.csv, bank-B.csv y bankC.csv) donde se complementa la información, por lo que ninguna es suficiente por sí misma. Las fuentes de datos corresponden a 3 archivos csv, las cuales se encuentran en el sitio web del curso.
 
 La idea de este miniproyecto es que se realice una conexión a las 3 fuentes de datos, se limpien los datos, se consolide la información y se obtenga una base de datos única. En este caso, se procederá a exportar un archivo csv o Excel, que contenga el resultado. Hay que considerar si efectivamente todas las bases de datos entregan información relevante para la consolidación del set final.
